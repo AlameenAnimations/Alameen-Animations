@@ -5,7 +5,8 @@ abdulazeez-alameen-portfolio/
 │   │   ├── profile-picture.jpg  (Place your profile picture here)
 │   │   └── other-images.jpg     (Place any other images here)
 │   ├── css/
-│   │   └──  <style>
+│   │   └── styles.css
+    <style>
         body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
